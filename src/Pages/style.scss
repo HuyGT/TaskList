@@ -1,0 +1,11 @@
+.main-task{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .list-task{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}

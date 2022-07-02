@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@300;500&family=Roboto+Slab&family=Roboto:ital,wght@0,500;1,500&display=swap');
+.App {
+    display: flex;
+    flex-direction: column;
+    background: #dfe6e9;
+    font-family: 'Roboto', sans-serif;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+
+    .main-content{
+        display: flex;
+    }
+}
